@@ -13,7 +13,11 @@ public class D {
             "MC2"
         );
     }
-
+    public void MD4(){
+        System.out.println(
+            "MD4"
+        );
+    }
     public void MC3(){
         System.out.println(
             "MC3"
