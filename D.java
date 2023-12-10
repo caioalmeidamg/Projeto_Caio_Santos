@@ -14,6 +14,12 @@ public class D {
         );
     }
 
+    public void MD3(){
+        System.out.println(
+            "MD3"
+        );
+    }
+
     public void MC3(){
         System.out.println(
             "MC3"
